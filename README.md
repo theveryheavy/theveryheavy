@@ -12,9 +12,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create, in
 
 ## 🚀 Technologies & Tools
 Here are some of the technologies and tools I work with:
-- 💻 Languages: JavaScript, Python, HTML, CSS, C++, C#
-- 🛠 Frameworks: React, Node.js, Tailwind
-- 🌐 Tools: Git, Docker, VisualStudio
+
+![Technologies And Tools](https://skillicons.dev/icons?i=html,js,css,py,php,tailwind,androidstudio,bash,cs,c,cloudflare,bots,docker,flask,git,go,md,mongodb,mysql,nodejs,npm,powershell,vscode&theme=dark)
 
 ## 📈 GitHub Stats
 ![TheHeavy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theveryheavy&show_icons=true&theme=dark)
