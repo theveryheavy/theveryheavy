@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to create, innovate, and share knowledge. 
 
-![Profile Views](https://komarev.com/ghpvc/?username=theveryheavy)
+[![The Heavy profile views](https://u8views.com/api/v1/github/profiles/187191859/views/day-week-month-total-count.svg)](https://u8views.com/github/theveryheavy)
 
 ## 🌐 Connect with Me
 - ✨ [My Website](https://theheavy.is-a.dev/)
