@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create, in
 - ✨ [My Website](https://theheavy.is-a.dev/)
 
 ## 📊 WakaTime Stats
-[![wakatime](https://wakatime.com/badge/user/fdde6b0a-c9e2-4448-87b9-7bb1afc9e598.svg)](https://wakatime.com/@fdde6b0a-c9e2-4448-87b9-7bb1afc9e598)
+[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=theveryheavy&layout=compact&theme=dark)](https://wakatime.com/@fdde6b0a-c9e2-4448-87b9-7bb1afc9e598)
 
 ## 🚀 Technologies & Tools
 Here are some of the technologies and tools I work with:
