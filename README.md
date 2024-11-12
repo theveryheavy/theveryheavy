@@ -19,7 +19,7 @@ Here are some of the technologies and tools I work with:
 ![TheHeavy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theveryheavy&show_icons=true&theme=dark)
 
 ## 🎮 My Discord Profile
-[![Discord Presence](https://lanyard.cnrad.dev/api/1266113644643614803)](https://discord.com/users/1266113644643614803)
+[![Discord Presence](https://lanyard.kyrie25.dev/api/1266113644643614803?imgStyle=square)](https://discord.com/users/1266113644643614803)
 
 ## 🎉 Fun Fact
 I love to explore new technologies and contribute to open-source projects. When I'm not coding, you can find me hiking or playing video games!
