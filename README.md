@@ -57,7 +57,7 @@ and sometimes forget what I was fixing in the first place.
 
 <img src="project3.png" alt="Project Two Screenshot" style="width:300px; max-width:100%; border-radius:8px;">
 
-**ProInstal, Polish business website** 
+**ProInstal Polish business website** 
 
 [Link for website](https://proinstal-firma.pl)
 
